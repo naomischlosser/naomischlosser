@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+#### About me
+- 🎓 Graduated from Makers Academy in October 2022
+- 🏗️ Used to work as a structural engineer
+- ✨ Speak two languages
+- 💕 Love for problem solving and making sure code is well structured
+- 🌳 Fun fact: I love goig for hikes using UK's public footpaths
+
+[Link to my GitHub CV](https://github.com/naomischlosser/CV)
+
 <!--
 **naomischlosser/naomischlosser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
