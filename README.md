@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ## About me
----
 - 🎓 Graduated from Makers Academy in October 2022
 - 🏗️ Used to work as a structural engineer
 - ✨ Speak two languages
@@ -9,23 +8,20 @@
 - 👥 Advocate of pair programming to problem solve efficiently, requiring teamwork and communication
 - 💻 Skilfull in using an OOP and TDD approach
 - 🌳 Fun fact: I love goig for hikes using UK's public footpaths
-<br>
 
 ## Projects
----
 
 | Name                                                                 | Description       | Tech/tools                            |
 | -------------------------------------------------------------------- | ----------------- | ------------------------------------- |
-| [https://github.com/naomischlosser/team-sea-urchins](ReefRunner)     |                   | Phaser, JS, HTML, Heroku              |
-| [https://github.com/naomischlosser/acebook-node-slugs](Acebook)      |                   | MongoDB, JS, Express, Handlebars, CSS |
+| [ReefRunner](https://github.com/naomischlosser/team-sea-urchins)     |                   | Phaser, JS, HTML, Heroku              |
+| [Acebook](https://github.com/naomischlosser/acebook-node-slugs)      |                   | MongoDB, JS, Express, Handlebars, CSS |
 | **Coming soon!**                                                     |                   | MongoDB, JS, Express, Handlebars, CSS |
 
 ## Curriculum Vitae
----
+
 [Link to my GitHub CV](https://github.com/naomischlosser/CV)
 
 ## Skills
----
 
 #### Perseverance
 I am always determined to finish a task or find the answer to a problem. I used to search through whole Eurocodes and reach out to people to get to the bottom of an issue.
