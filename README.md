@@ -20,11 +20,11 @@ A motivated Full Stack Junior Software Developer who ...
 
 ## Projects
 
-| Name                                                                 | Description       | Tech/tools                            |
-| -------------------------------------------------------------------- | ----------------- | ------------------------------------- |
-| [ReefRunner](https://github.com/naomischlosser/team-sea-urchins)     | A 2D infinite scrolling game with powerups and obstacles | Phaser, JS, HTML, Heroku              |
-| [Acebook](https://github.com/naomischlosser/acebook-node-slugs)      | Mimicking Facebook where users can make friends, posts and comments and like them | MongoDB, JS, Express, Handlebars, CSS |
-| **More coming soon!**                                                |                   |                                       |
+| Name                                                             | Description       | Tech/tools                           |
+| ---------------------------------------------------------------- | ----------------- | ------------------------------------ |
+| [ReefRunner](https://github.com/naomischlosser/team-sea-urchins) | A 2D infinite scrolling game with powerups and obstacles | Phaser, JavaScript, HTML, CSS, Heroku |
+| [Acebook](https://github.com/naomischlosser/acebook-node-slugs) | Mimicking Facebook where users can make friends, posts and comments and like them | MongoDB, JavaScript, Express, Handlebars, Jest, Cypress CSS |
+| [Bank Tech Test}(https://github.com/naomischlosser/individual-challenges/tree/main/bank-tech-test) | A simple bank simulator | JavaScript, Node, Jest |
 
 ## Tech stack
 - Javascript (Node, Express, MongoDB, Jest)
