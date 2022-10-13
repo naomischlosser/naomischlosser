@@ -20,10 +20,6 @@ A motivated Full Stack Junior Software Developer who ...
 | [Acebook](https://github.com/naomischlosser/acebook-node-slugs)      | Mimicking Facebook where users can make friends, posts and comments and like them | MongoDB, JS, Express, Handlebars, CSS |
 | **More coming soon!**                                                |                   |                                       |
 
-## Curriculum Vitae
-
-Interested to see more? [Go to my CV](https://github.com/naomischlosser/CV)
-
 ## Tech stack
 - Javascript (Node, Express, MongoDB, Jest)
 - Ruby (Sinatra, RSpec)
@@ -32,3 +28,7 @@ Interested to see more? [Go to my CV](https://github.com/naomischlosser/CV)
 - HTML, CSS, Handlebars
 - Heroku
 - Git, GitHub
+
+## Curriculum Vitae
+
+Interested to see more? [Go to my CV](https://github.com/naomischlosser/CV)
