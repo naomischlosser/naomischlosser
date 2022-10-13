@@ -1,15 +1,16 @@
 # Hi there 👋
 
 ## About me
-A motivated Junior Software Developer who ...
+A motivated Full Stack Junior Software Developer who ...
 
 - 🎓 Graduated from Makers Academy in October 2022
-- 🏗️ Used to work as a structural engineer
-- ✨ Speak two languages
+- 🏗️ Used to work as a structural engineer for almost 4 years
+- ✨ Speak two languages, Dutch and English!
 - 💕 Love for problem solving and making sure code is well structured
 - 👥 Advocate of pair programming to problem solve efficiently, requiring teamwork and communication
 - 💻 Skilfull in using an OOP and TDD approach
-- 🌳 Fun fact: I love goig for hikes using UK's public footpaths
+- 🌳 Fun fact #1: I love goig for hikes using UK's public footpaths
+- 🏊‍♀️ Fun fact #2: I used to do synchronise swimming
 
 ## Projects
 
@@ -21,7 +22,7 @@ A motivated Junior Software Developer who ...
 
 ## Curriculum Vitae
 
-[Link to my CV](https://github.com/naomischlosser/CV)
+Interested to see more? [Go to my CV](https://github.com/naomischlosser/CV)
 
 ## Tech stack
 - Javascript (Node, Express, MongoDB, Jest)
