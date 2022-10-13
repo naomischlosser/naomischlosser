@@ -1,5 +1,3 @@
-# Hi there 👋
-
 <div align="center">
   <img src="https://github.com/naomischlosser/CV/blob/main/bear-painting.png"width="450">
 </div>
@@ -18,7 +16,7 @@ A motivated Full Stack Junior Software Developer who ...
 - ✨ Speak two languages, Dutch and English!
 - 💕 Has a love for problem solving and making sure code is well structured
 - 👥 Thoroughly enjoys pair programming to problem solve efficiently and get to know others on a more personal level
-- 💻 Skilful in using an OOP and a TDD approach
+- 💻 Is skilful in using an OOP and a TDD approach
 - 🌳 Fun fact #1: I love going for hikes using UK's public footpaths
 - 🏊‍♀️ Fun fact #2: I used to do synchronise swimming
 
