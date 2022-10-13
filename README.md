@@ -10,11 +10,11 @@
 A motivated Full Stack Junior Software Developer who ...
 
 - 🎓 Graduated from Makers Academy in October 2022
-- 🏗️ Used to work as a structural engineer for almost 4 years
+- 🏗️ Used to work as a structural engineer for almost 4 years, specialising in design
 - ✨ Speak two languages, Dutch and English!
-- 💕 Love for problem solving and making sure code is well structured
-- 👥 Advocate of pair programming to problem solve efficiently, requiring teamwork and communication
-- 💻 Skilfull in using an OOP and TDD approach
+- 💕 Has a love for problem solving and making sure code is well structured
+- 👥 Thoroughly enjoys pair programming to problem solve efficiently and get to know others on a more personal level
+- 💻 Skilful in using an OOP and a TDD approach
 - 🌳 Fun fact #1: I love going for hikes using UK's public footpaths
 - 🏊‍♀️ Fun fact #2: I used to do synchronise swimming
 
@@ -27,10 +27,11 @@ A motivated Full Stack Junior Software Developer who ...
 | [Bank Tech Test](https://github.com/naomischlosser/individual-challenges/tree/main/bank-tech-test) | A simple bank simulator | JavaScript, Node, Jest |
 
 ## Tech stack
-- Javascript (Node, Express, MongoDB, Jest)
-- Ruby (Sinatra, RSpec)
-- Phaser
-- SQL (PostgreSQL, TablePlus)
+- Ruby, Javascript, Node
 - HTML, CSS, Handlebars
+- SQL, MongoDB
+- RSpec, Jest, Cypress
+- Sinatra, Express, Phaser
 - Heroku
 - Git, GitHub
+- Indesign, Photoshop, Illustrator
