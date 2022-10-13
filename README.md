@@ -1,5 +1,11 @@
 # Hi there 👋
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/naomi-schl%C3%B6sser-1a0861150/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://github.com/naomischlosser/CV/blob/main/CV-Naomi-Schlo%CC%88sser.pdf"><img src="https://img.shields.io/badge/PDF CV-97bcc8?style=for-the-badge&logo=cv&logoColor=white"></a>
+    <a href="https://github.com/naomischlosser/CV"><img src="https://img.shields.io/badge/GithubCV-4B4B4B?style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
+
 ## About me
 A motivated Full Stack Junior Software Developer who ...
 
@@ -9,7 +15,7 @@ A motivated Full Stack Junior Software Developer who ...
 - 💕 Love for problem solving and making sure code is well structured
 - 👥 Advocate of pair programming to problem solve efficiently, requiring teamwork and communication
 - 💻 Skilfull in using an OOP and TDD approach
-- 🌳 Fun fact #1: I love goig for hikes using UK's public footpaths
+- 🌳 Fun fact #1: I love going for hikes using UK's public footpaths
 - 🏊‍♀️ Fun fact #2: I used to do synchronise swimming
 
 ## Projects
@@ -28,7 +34,3 @@ A motivated Full Stack Junior Software Developer who ...
 - HTML, CSS, Handlebars
 - Heroku
 - Git, GitHub
-
-## Curriculum Vitae
-
-Interested to see more? [Go to my CV](https://github.com/naomischlosser/CV)
