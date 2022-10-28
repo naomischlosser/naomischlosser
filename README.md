@@ -16,7 +16,7 @@ A motivated Full Stack Junior Software Developer who ...
 - ✨ Speak two languages, Dutch and English!
 - 💕 Has a love for problem solving and making sure code is well structured
 - 👥 Thoroughly enjoys pair programming to problem solve efficiently and get to know others on a more personal level
-- 💻 Is skilful in using an OOP and a TDD approach
+- 💻 Is skilful in using an OOP and a TDD approach in an agile environment
 - 🌳 Fun fact #1: I love going for hikes using UK's public footpaths
 - 🏊‍♀️ Fun fact #2: I used to do synchronise swimming
 
@@ -26,7 +26,8 @@ A motivated Full Stack Junior Software Developer who ...
 | ---------------------------------------------------------------- | ----------------- | -------- | --------- | ------------------------------------ |
 | [ReefRunner](https://github.com/naomischlosser/team-sea-urchins) | A fun 2D infinite scrolling game with powerups and obstacles | Group project (5 people) | 2 wks | Phaser, JavaScript, HTML, CSS, Heroku |
 | [Acebook](https://github.com/naomischlosser/acebook-node-slugs) | A social media app similar to Facebook | Group project (7 people) | 2 wks | MongoDB, JavaScript, Express, Handlebars, Jest, Cypress CSS |
-| [Gilded Rose](https://github.com/naomischlosser/individual-challenges/tree/main/gilded-rose-tech-test) | The famous gilded rose tech test | Individual work | 2 days | Ruby, RSpec |
+| [Gilded Rose](https://github.com/naomischlosser/individual-challenges/tree/main/gilded-rose-tech-test) | The famous gilded rose tech test | Solo project | 2 days | Ruby, RSpec |
+| [DoggyGram]([https://github.com/naomischlosser/individual-challenges/tree/main/gilded-rose-tech-test](https://github.com/naomischlosser/doggy-gram)) | An app to share photos of your furry companion | Solo project | *in progress* | MERN, TypeScript, ESbuild |
 
 ## Tech stack
 - Ruby, Javascript, Node
