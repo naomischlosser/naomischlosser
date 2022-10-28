@@ -27,7 +27,7 @@ A motivated Full Stack Junior Software Developer who ...
 | [ReefRunner](https://github.com/naomischlosser/team-sea-urchins) | A fun 2D infinite scrolling game with powerups and obstacles | Group project (5 people) | 2 wks | Phaser, JavaScript, HTML, CSS, Heroku |
 | [Acebook](https://github.com/naomischlosser/acebook-node-slugs) | A social media app similar to Facebook | Group project (7 people) | 2 wks | MongoDB, JavaScript, Express, Handlebars, Jest, Cypress CSS |
 | [Gilded Rose](https://github.com/naomischlosser/individual-challenges/tree/main/gilded-rose-tech-test) | The famous gilded rose tech test | Solo project | 2 days | Ruby, RSpec |
-| [DoggyGram]([https://github.com/naomischlosser/individual-challenges/tree/main/gilded-rose-tech-test](https://github.com/naomischlosser/doggy-gram)) | An app to share photos of your furry companion | Solo project | *in progress* | MERN, TypeScript, ESbuild |
+| [DoggyGram](https://github.com/naomischlosser/doggy-gram) | An app to share photos of your furry companion | Solo project | *in progress* | MERN, TypeScript, ESbuild |
 
 ## Tech stack
 - Ruby, Javascript, Node
